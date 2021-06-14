@@ -1,5 +1,5 @@
 - 👩‍💻  Software engineer
-- 🌱  Using Scala and C++
+- 🌱  Using Scala, learning C++
 - 👯  Looking to collaborate on hardware projects
 - 📫  How to reach me: hi@jucke.com
 - 🎶  Pronounced like: `jook`
