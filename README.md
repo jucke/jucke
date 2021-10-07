@@ -18,6 +18,32 @@
 [![Docker](https://img.shields.io/badge/-Docker-gray?style=flat&logo=docker)](https://docker.com/)
 ![AWS](https://img.shields.io/badge/-AWS-gray?style=flat&logo=amazonaws&logoColor=ff9900)
 
+## What I'm good at ✨
+
+* Making decisions under pressure
+* Changing my mind with facts and data
+* Processing a lot of text to distill context
+* Staying positive in crisis
+* Connecting systems together
+* Big picture
+* Jokes (sometimes)
+
+## What I'm not good at :hurtrealbad:
+
+* Interrupting when I have a question or disagree
+* Working on one thing at a time
+* Accepting failure
+* Looking enthusiastic when I am enthusiastic
+* Gauging what people do or don't know
+
+## How to work with me :shipit:
+
+* Describe your goal precisely
+* Send context writeup before discussions
+* Ask me for an opinion if you want one
+* Prompt me to speak simpler and clearer
+* If something is not working out for you - mention it
+
 ## Other places
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jucke/)](https://www.linkedin.com/in/jucke/)
