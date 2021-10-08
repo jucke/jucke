@@ -3,7 +3,7 @@
 - 👩‍💻  Software engineer
 - 🌱  Using Scala, learning ML
 - 👯  Looking to collaborate on hardware projects
-- 📫  How to reach me: hi@jucke.com
+- 📫  How to reach me: jucke@jucke.com
 - 🎶  Pronounced like: `jook`
 
 ## My tech
