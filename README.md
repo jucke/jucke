@@ -1,8 +1,7 @@
 ## About
 
 - 👩‍💻  Software engineer
-- 🌱  Using Scala, learning ML
-- 👯  Looking to collaborate on hardware projects
+- 🌱  DevOps + Software Engineering + ML + A/B Testing
 - 📫  How to reach me: jucke@jucke.com
 - 🎶  Pronounced like: `jook`
 
@@ -20,28 +19,28 @@
 
 ## What I'm good at ✨
 
-* Making decisions under pressure
+* Working under pressure
 * Changing my mind with facts and data
-* Processing a lot of text to distill context
+* Processing information quickly
 * Staying positive in crisis
 * Connecting systems together
 * Big picture
 * Jokes (sometimes)
 
-## What I'm not good at :hurtrealbad:
+## What I'm less good at :hurtrealbad:
 
 * Interrupting when I have a question or disagree
 * Working on one thing at a time
-* Accepting failure
+* Accepting failure and moving on
 * Looking enthusiastic when I am enthusiastic
 * Gauging what people do or don't know
 
 ## How to work with me :shipit:
 
 * Describe your goal precisely
-* Send context writeup before discussions
+* Share context writeup before discussions
 * Ask me for an opinion if you want one
-* Prompt me to speak simpler and clearer
+* Prompt me to speak simpler and/or clearer
 * If something is not working out for you - mention it
 
 ## Other places
